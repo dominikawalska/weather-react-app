@@ -11,3 +11,22 @@ a {
 body {
   background-color: rgb(165, 189, 253, 0.2);
 }
+
+.weather-app {
+  margin: 100px auto;
+  max-width: 800px;
+  font-family: sans-serif;
+  color: #5a6275;
+}
+
+.weather-frame {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 30px;
+  margin-bottom: 15px;
+}
+
+.input:defined {
+  background-color: rgb(165, 189, 253, 0.3);
+  border: none;
+}
